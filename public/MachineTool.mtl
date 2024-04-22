@@ -1,0 +1,260 @@
+newmtl 16777215
+	Kd 1 1 1
+	illum 0
+	d 1
+
+newmtl 3355443
+	Kd 0.2 0.2 0.2
+	illum 0
+	d 1
+
+newmtl 11645361
+	Kd 0.6941177 0.6941177 0.6941177
+	illum 0
+	d 1
+
+newmtl 10066329
+	Kd 0.6 0.6 0.6
+	illum 0
+	d 1
+
+newmtl 10092390
+	Kd 0.6 1 0.4
+	illum 0
+	d 1
+
+newmtl 12046275
+	Kd 0.7176471 0.8117647 0.7647059
+	illum 0
+	d 1
+
+newmtl 789516
+	Kd 0.04705882 0.04705882 0.04705882
+	illum 0
+	d 1
+
+newmtl 1189997
+	Kd 0.07058824 0.1568628 0.427451
+	illum 0
+	d 1
+
+newmtl 3648136
+	Kd 0.2156863 0.6666667 0.5333334
+	illum 0
+	d 1
+
+newmtl 15104786
+	Kd 0.9019608 0.4823529 0.07058824
+	illum 0
+	d 1
+
+newmtl 16737792
+	Kd 1 0.4 0
+	illum 0
+	d 1
+
+newmtl 11781088
+	Kd 0.7019608 0.7647059 0.8784314
+	illum 0
+	d 1
+
+newmtl 255
+	Kd 0 0 1
+	illum 0
+	d 1
+
+newmtl 10260065
+	Kd 0.6117647 0.5568628 0.3803922
+	illum 0
+	d 1
+
+newmtl 11710823
+	Kd 0.6980392 0.6941177 0.4039216
+	illum 0
+	d 1
+
+newmtl 65535
+	Kd 0 1 1
+	illum 0
+	d 1
+
+newmtl 53199
+	Kd 0 0.8117647 0.8117647
+	illum 0
+	d 1
+
+newmtl 14671839
+	Kd 0.8745098 0.8745098 0.8745098
+	illum 0
+	d 1
+
+newmtl 16711680
+	Kd 1 0 0
+	illum 0
+	d 1
+
+newmtl 8224125
+	Kd 0.4901961 0.4901961 0.4901961
+	illum 0
+	d 1
+
+newmtl 10266795
+	Kd 0.6117647 0.6588235 0.6705883
+	illum 0
+	d 1
+
+newmtl 12451839
+	Kd 0.7411765 1 1
+	illum 0
+	d 1
+
+newmtl 2696226
+	Kd 0.1607843 0.1411765 0.1333333
+	illum 0
+	d 1
+
+newmtl 8757423
+	Kd 0.5215687 0.627451 0.6862745
+	illum 0
+	d 1
+
+newmtl 11286291
+	Kd 0.6745098 0.2156863 0.07450981
+	illum 0
+	d 1
+
+newmtl 14795336
+	Kd 0.8823529 0.7607843 0.282353
+	illum 0
+	d 1
+
+newmtl 10253353
+	Kd 0.6117647 0.454902 0.1607843
+	illum 0
+	d 1
+
+newmtl 4273970
+	Kd 0.254902 0.2156863 0.1960784
+	illum 0
+	d 1
+
+newmtl 16776960
+	Kd 1 1 0
+	illum 0
+	d 1
+
+newmtl 3381555
+	Kd 0.2 0.6 0.2
+	illum 0
+	d 1
+
+newmtl 10092490
+	Kd 0.6 1 0.7921569
+	illum 0
+	d 1
+
+newmtl 10092543
+	Kd 0.6 1 1
+	illum 0
+	d 1
+
+newmtl 13434675
+	Kd 0.8 1 0.2
+	illum 0
+	d 1
+
+newmtl 12636897
+	Kd 0.7529412 0.8235294 0.8823529
+	illum 0
+	d 1
+
+newmtl 14155719
+	Kd 0.8431373 1 0.7803922
+	illum 0
+	d 1
+
+newmtl 7536589
+	Kd 0.4470588 1 0.8039216
+	illum 0
+	d 1
+
+newmtl 5177343
+	Kd 0.3058824 1 1
+	illum 0
+	d 1
+
+newmtl 0
+	Kd 0 0 0
+	illum 0
+	d 1
+
+newmtl 16763392
+	Kd 1 0.7921569 0
+	illum 0
+	d 1
+
+newmtl 13019277
+	Kd 0.7764706 0.6588235 0.5529412
+	illum 0
+	d 1
+
+newmtl 5681663
+	Kd 0.3372549 0.6941177 1
+	illum 0
+	d 1
+
+newmtl 3407667
+	Kd 0.2 1 0.2
+	illum 0
+	d 1
+
+newmtl 10194944
+	Kd 0.6078432 0.5647059 0
+	illum 0
+	d 1
+
+newmtl 3836815
+	Kd 0.227451 0.5450981 0.5607843
+	illum 0
+	d 1
+
+newmtl 39168
+	Kd 0 0.6 0
+	illum 0
+	d 1
+
+newmtl 6710886
+	Kd 0.4 0.4 0.4
+	illum 0
+	d 1
+
+newmtl 7498495
+	Kd 0.4470588 0.4156863 1
+	illum 0
+	d 1
+
+newmtl 16771170
+	Kd 1 0.9098039 0.3843137
+	illum 0
+	d 1
+
+newmtl 16775871
+	Kd 1 0.9803922 0.7490196
+	illum 0
+	d 1
+
+newmtl 13421772
+	Kd 0.8 0.8 0.8
+	illum 0
+	d 1
+
+newmtl 65280
+	Kd 0 1 0
+	illum 0
+	d 1
+
+newmtl 16724016
+	Kd 1 0.1882353 0.1882353
+	illum 0
+	d 1
+
