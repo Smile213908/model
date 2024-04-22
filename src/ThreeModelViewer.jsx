@@ -60,7 +60,7 @@ function ThreeModelViewer() {
             const objLoader = new OBJLoader(manager);
             objLoader.setMaterials(materials);
             objLoader.load('/Impeller01.obj', (object) => {
-                object.scale.set(25,25,25) // 缩放模型
+                object.scale.set(600,600,600) // 缩放模型
                  // 计算并重置模型的旋转中心
                 const box = new THREE.Box3().setFromObject(object); // 计算包围盒
                 const center = box.getCenter(new THREE.Vector3()); // 计算中心点
