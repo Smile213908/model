@@ -55,12 +55,12 @@ function ThreeModelViewer() {
 
         // 加载材质和模型
         const mtlLoader = new MTLLoader(manager);
-        mtlLoader.load('/MachineTool.mtl', (materials) => {
+        mtlLoader.load('/Impeller03.mtl', (materials) => {
             materials.preload();
             const objLoader = new OBJLoader(manager);
             objLoader.setMaterials(materials);
-            objLoader.load('/MachineTool.obj', (object) => {
-                object.scale.set(25,25,25) // 缩放模型
+            objLoader.load('/Impeller03.obj', (object) => {
+                object.scale.set(750,750,750) // 缩放模型
                  // 计算并重置模型的旋转中心
                 const box = new THREE.Box3().setFromObject(object); // 计算包围盒
                 const center = box.getCenter(new THREE.Vector3()); // 计算中心点
