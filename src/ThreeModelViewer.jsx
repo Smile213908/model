@@ -61,7 +61,7 @@ function ThreeModelViewer() {
             objLoader.setMaterials(materials);
             objLoader.load('/shell.obj', (object) => {
                 object.scale.set(10,10,10) // 缩放模型
-                object.rotateX(-Math.PI/2);//绕x轴旋转π/2   
+                object.rotateX(Math.PI);//绕x轴旋转π/2   
                  // 计算并重置模型的旋转中心
                 const box = new THREE.Box3().setFromObject(object); // 计算包围盒
                 const center = box.getCenter(new THREE.Vector3()); // 计算中心点
